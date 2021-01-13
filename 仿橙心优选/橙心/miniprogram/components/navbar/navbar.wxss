@@ -1,0 +1,35 @@
+/* components/navbar/navbar.wxss */
+/* components/SearchInput/SearchInput.wxss */
+page{
+  height: 100%;
+}
+.search_input{
+  height: 90rpx;
+  padding: 10rpx;
+  background-color: #FF852A;
+}
+.search_input-nav{
+  background-color: #FF9F31; 
+  display: flex;
+  width: 90%;
+  height: 80rpx;
+  line-height: 80rpx;
+  border-radius: 15rpx;
+  color: white;
+}
+.serch_input-img{
+  padding: 27.5rpx 1rpx 27.5rpx,5rpx;
+  flex: 3.5;
+}
+.serch_input-img,image{
+  width: 20px;
+  height: 20px;
+}
+.serch_input-share{
+  padding-right: 0rpx;
+  flex: 1;
+}
+.serch_input-share,image{
+  width: 20px;
+  height: 20px;
+}

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "serch_input": "../../components/navbar/navbar"
+  },
+  "window": {
+    "enablePullDownRefresh": "true",
+    "backgroundTextStyle":"dark",
+    "navigationStyle": "custom"
+  }
+}

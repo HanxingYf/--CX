@@ -1,0 +1,13 @@
+<!-- 首页搜索栏 -->
+<view class="serch_input">
+  <navigator class="search_input-nav" url="/pages/search/search" open-type="navigate">
+  <view class="serch_input-img">
+    <image src="https://7966-yfemo-8ginhy1c5dd46032-1304585145.tcb.qcloud.la/%E4%BE%BF%E5%88%A9%E5%BA%97.png?sign=9efacaac0e7eeb2ed57576f0cea54d9f&t=1610527685" mode="aspectFit"></image>
+    一分便利店 >
+  </view>
+  <view class="serch_input-share">
+    <image src="https://7966-yfemo-8ginhy1c5dd46032-1304585145.tcb.qcloud.la/share.png?sign=e5fb844887f371b02dbf5df2a33a9c2d&t=1610537161"></image>
+    分享
+  </view>
+</navigator>
+</view>
